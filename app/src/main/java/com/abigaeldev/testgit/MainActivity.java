@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String msg = "Hello world!";
+        String msgId = "hello dunia";
     }
 }
