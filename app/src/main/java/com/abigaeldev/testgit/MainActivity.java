@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void doSomething() {
-        String task1 = "Doing exercise!";
+        String task1 = "!!!";
+    }
+
+    public void addSomething() {
+        String task2 = "!!!";
     }
 }
