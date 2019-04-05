@@ -23,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void fiturTiga() {
-        
+
+    }
+
+    public void fitur_empat() {
+
     }
 }
