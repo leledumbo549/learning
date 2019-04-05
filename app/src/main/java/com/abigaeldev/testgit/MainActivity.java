@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
     public void addSomething() {
         String task2 = "!!!";
     }
+
+    public void fitur_empat() {
+        
+    }
 }
