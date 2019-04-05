@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
         String msg1 = "Hello world!";
         String msg2 = "Halo dunia";
     }
+
+    public void doSomething() {
+        String task1 = "Doing exercise!";
+    }
 }
